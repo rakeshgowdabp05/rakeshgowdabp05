@@ -39,11 +39,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp; About Me
 
 ```java
-/**
- * @author  Rakesh Gowda B P
- * @version 1.0
- * @since   2026
- */
+
 public class Rakesh extends Developer {
 
     private final String name       = "Rakesh Gowda B P";
