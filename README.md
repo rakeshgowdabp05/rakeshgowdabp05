@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vWidth=600&lines=Java+Full+Stack+Developer+%F0%9F%92%BB;Final+Year+CSE+%40+Dr.SMCE+%F0%9F%8E%93;Building+Real-World+Apps+%F0%9F%9A%80;Code.+Build.+Deploy.+Repeat.+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vWidth=600&lines=Java+Full+Stack+Developer+%F0%9F%92%BB;Final+Year+CSE+%40+Dr.SMCE+%F0%9F%8E%93;Building+Real-World+Apps+%F0%9F%9A%80;Code.+Build.+Deploy.+Repeat" />
 </div>
 
 <br/>
@@ -45,8 +45,8 @@ public class Rakesh extends Developer {
     private final String name       = "Rakesh Gowda B P";
     private final String college    = "Dr. SMCE, Nelamangala — B.E. CSE (2026)";
     private final String role       = "Java Full Stack Intern @ Tap Edtech Pvt Ltd";
-    private final String[] skills   = { "Java", "Node.js", "Express.js", "Spring Boot",
-                                        "MySQL", "MongoDB", "REST APIs", "HTML", "CSS", "JS" };
+    private final String[] skills   = { "Java", "Node.js","MySQL", "MongoDB",
+                                        "REST APIs", "HTML", "CSS", "JS" };
     private final String[] passion  = { "Building Real-World Apps", "Vibe Coding",
                                         "Clean Code", "Problem Solving" };
     private final String[] lookingFor = { "Software Developer", "Full Stack Developer" };
