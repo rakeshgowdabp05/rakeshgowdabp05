@@ -18,7 +18,7 @@
   <a href="mailto:rakeshgowdabp05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
-  <a href="https://rakesh-portfolio-9k9k.onrender.com">
+  <a href="demo-portfolio-theta-ten.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>&nbsp;
   <a href="https://github.com/rakeshgowdabp05">
