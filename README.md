@@ -69,11 +69,10 @@ public class Rakesh extends Developer {
     float  cgpa        = 8.38f;
 
     String[] languages  = { "Java", "JavaScript", "HTML", "CSS" };
-    String[] backend    = { "Spring Boot", "Hibernate/JPA", "JDBC", "REST APIs" };
-    String[] frontend   = { "Tailwind CSS", "Vanilla JS", "JSP/JSTL" };
-    String[] databases  = { "MySQL", "MongoDB" };
-    String[] tools      = { "Git", "GitHub", "Postman",
-                            "VS Code", "Eclipse" };
+    String[] backend    = { "Spring Boot", "Hibernate/JPA", "JDBC" };
+    String[] frontend   = { "Tailwind CSS", "JSP" };
+    String[] databases  = { "MySQL" };
+    String[] tools      = { "Git", "GitHub", "VS Code", "Eclipse" };
 
     String[] projects   = {
         "ExpenseIQ  — Full-Stack Finance App",
