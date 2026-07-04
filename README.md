@@ -46,11 +46,11 @@
 
 <br/>
 
-<!-- ANIMATED SNAKE / DIVIDER -->
+<!-- ANIMATED SNAKE / DIVIDER (real GitHub activity) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rakeshgowdabp05/rakeshgowdabp05/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rakeshgowdabp05/rakeshgowdabp05/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rakeshgowdabp05/rakeshgowdabp05/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 ---
@@ -72,7 +72,7 @@ public class Rakesh extends Developer {
     String[] backend    = { "Spring Boot", "Hibernate/JPA", "JDBC", "REST APIs" };
     String[] frontend   = { "Tailwind CSS", "Vanilla JS", "JSP/JSTL" };
     String[] databases  = { "MySQL", "MongoDB" };
-    String[] tools      = { "Git", "GitHub", "Postman",
+    String[] tools      = { "Git", "GitHub",
                             "VS Code", "Eclipse" };
 
     String[] projects   = {
@@ -118,7 +118,6 @@ public class Rakesh extends Developer {
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/Servlet_/_JSP-005571?style=flat-square&logo=jakarta&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white"/>
 <img src="https://img.shields.io/badge/BCrypt-00C853?style=flat-square"/>
 
 ### 🎨 &nbsp;Frontend
@@ -133,11 +132,10 @@ public class Rakesh extends Developer {
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark&perline=8"/>
 
 ### 🛠️ &nbsp;Tools & Deployment
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,docker&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse&theme=dark&perline=8"/>
 <br/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
