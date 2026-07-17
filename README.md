@@ -279,7 +279,7 @@ public class Rakesh extends Developer {
 <a href="mailto:rakeshgowdabp05@gmail.com">
   <img src="https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>&nbsp;
-<a href="https://demo-portfolio-theta-ten.vercel.app">
+<a href="https://rakesh05-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/View_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>&nbsp;
 <a href="https://leetcode.com/u/rakesh_gowdabp_05/">
