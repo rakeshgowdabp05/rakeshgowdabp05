@@ -39,23 +39,27 @@ Java Full Stack Developer focused on building database-driven web applications u
 
 **Languages**
 <br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=java,js,mysql,html,css&theme=dark&perline=5"/>
 
 **Backend**
 <br/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/Servlets-005571?style=flat-square&logo=jakarta&logoColor=white"/> <img src="https://img.shields.io/badge/JSP-005571?style=flat-square"/> <img src="https://img.shields.io/badge/JDBC-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark&perline=5"/>
+<br/>
+<sub>+ Spring MVC · Spring Data JPA · Servlets · JSP · JDBC</sub>
 
 **Database**
 <br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=5"/>
 
 **Concepts**
 <br/>
-<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/MVC-0d1117?style=flat-square"/> <img src="https://img.shields.io/badge/Controller--Service--Repository-0d1117?style=flat-square"/> <img src="https://img.shields.io/badge/DAO_Pattern-0d1117?style=flat-square"/> <img src="https://img.shields.io/badge/OOP-0d1117?style=flat-square"/> <img src="https://img.shields.io/badge/Authentication-0d1117?style=flat-square"/> <img src="https://img.shields.io/badge/Transaction_Management-0d1117?style=flat-square"/>
+<sub>REST APIs · MVC · Controller-Service-Repository · DAO Pattern · OOP · Authentication · Transaction Management</sub>
 
 **Tools**
 <br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=git,github,maven,eclipse,vscode&theme=dark&perline=5"/>
+<br/>
+<sub>+ MySQL Workbench · Apache Tomcat</sub>
 
 <br/>
 
@@ -69,7 +73,9 @@ Java Full Stack Developer focused on building database-driven web applications u
 
 A full-stack inventory management platform built with Spring Boot and MySQL, featuring 24 REST APIs, transactional stock workflows, real-time inventory analytics, low-stock monitoring, and a data-driven dashboard.
 
-`Java` `Spring Boot` `Spring MVC` `Spring Data JPA` `Hibernate/JPA` `MySQL` `HTML` `CSS` `JavaScript` `Fetch API` `Chart.js` `Maven`
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,maven&theme=dark&perline=7"/>
+<br/>
+<sub>+ Spring MVC · Spring Data JPA · Hibernate/JPA · Fetch API · Chart.js</sub>
 
 | Metric | |
 |---|---|
@@ -90,7 +96,9 @@ A full-stack inventory management platform built with Spring Boot and MySQL, fea
 
 A Java Servlet/JSP food delivery platform implementing the complete restaurant-to-order workflow with session authentication, BCrypt security, JDBC/DAO architecture, cart and checkout management, order persistence, and an admin dashboard.
 
-`Java` `JSP` `Jakarta Servlets` `JDBC` `MySQL` `HTML` `CSS` `BCrypt` `HttpSession` `DAO Pattern` `Apache Tomcat`
+<img src="https://skillicons.dev/icons?i=java,mysql,html,css&theme=dark&perline=7"/>
+<br/>
+<sub>+ JSP · Jakarta Servlets · JDBC · BCrypt · HttpSession · DAO Pattern · Apache Tomcat</sub>
 
 | Metric | |
 |---|---|
