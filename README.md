@@ -20,7 +20,7 @@ Bengaluru, India
 <br/><br/>
 
 <img src="https://img.shields.io/badge/B.E._CSE_2026-VTU-f59e0b?style=flat-square&labelColor=0d1117"/>&nbsp;
-<img src="https://img.shields.io/badge/CGPA-8.38%2F10-10b981?style=flat-square&labelColor=0d1117"/>&nbsp;
+<img src="https://img.shields.io/badge/CGPA-8.39%2F10-10b981?style=flat-square&labelColor=0d1117"/>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=rakeshgowdabp05&style=flat-square&color=58a6ff&label=Profile+Views&labelColor=0d1117"/>
 
 </div>
@@ -132,8 +132,6 @@ A full-stack e-commerce web application built with Java, JSP, Servlets, JDBC, an
 | JDBC DAO implementations | **13** |
 
 **Architecture & Features:** MVC + Service + DAO architecture · Product, cart, order, and checkout management · BCrypt password hashing · Session-based user authentication
-
-**Repository:** _link not yet provided — send it over and I'll add it_
 
 <br/>
 
