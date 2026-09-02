@@ -133,6 +133,8 @@ A full-stack e-commerce web application built with Java, JSP, Servlets, JDBC, an
 
 **Architecture & Features:** MVC + Service + DAO architecture · Product, cart, order, and checkout management · BCrypt password hashing · Session-based user authentication
 
+**Repository:** [github.com/rakeshgowdabp05/MyntraDemo](https://github.com/rakeshgowdabp05/MyntraDemo)
+
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=2&section=header" width="100%"/>
